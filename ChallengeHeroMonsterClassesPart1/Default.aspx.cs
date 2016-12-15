@@ -8,10 +8,10 @@ using ChallengeHeroMonsterClassesPart1.Domain;
 
 namespace ChallengeHeroMonsterClassesPart1 {
     public partial class Default : System.Web.UI.Page {
-        private characterInteraction characterInteraction;
+        private CharacterInteraction characterInteraction;
 
         protected void Page_Load(object sender, EventArgs e) {
-            characterInteraction = new characterInteraction();
+            characterInteraction = new CharacterInteraction();
         }
 
         protected void buttonFight_Click(object sender, EventArgs e) {

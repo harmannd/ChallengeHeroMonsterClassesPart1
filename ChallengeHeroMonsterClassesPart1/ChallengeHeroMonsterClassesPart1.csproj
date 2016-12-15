@@ -89,7 +89,7 @@
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Domain\Dice.cs" />
-    <Compile Include="Domain\Fight.cs" />
+    <Compile Include="Domain\CharacterInteraction.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

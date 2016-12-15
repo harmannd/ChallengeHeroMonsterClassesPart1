@@ -5,12 +5,12 @@ using System.Web;
 
 
 namespace ChallengeHeroMonsterClassesPart1.Domain {
-    public class characterInteraction {
+    public class CharacterInteraction {
         private Character hero, monster;
         private Dice dice = new Dice(10);
         private string result;
 
-        public characterInteraction() {
+        public CharacterInteraction() {
             hero = new Character("Derek", 100, 25);
             monster = new Character("Nurgle", 300, 10);
         }
