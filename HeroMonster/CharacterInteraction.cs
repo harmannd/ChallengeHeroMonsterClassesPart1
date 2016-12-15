@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-
-namespace ChallengeHeroMonsterClassesPart1.Domain {
+﻿
+namespace ChallengeHeroMonsterClassesPart1 {
     public class CharacterInteraction {
         private Character hero, monster;
         private Dice dice = new Dice(10);

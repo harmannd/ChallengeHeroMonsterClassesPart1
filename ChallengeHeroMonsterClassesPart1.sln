@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeHeroMonsterClassesPart1", "ChallengeHeroMonsterClassesPart1\ChallengeHeroMonsterClassesPart1.csproj", "{59E3BB01-5BFA-4058-8722-1114D4896593}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroMonster", "HeroMonster\HeroMonster.csproj", "{8258C1BA-F493-4F80-AD35-90017A254FBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{59E3BB01-5BFA-4058-8722-1114D4896593}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E3BB01-5BFA-4058-8722-1114D4896593}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E3BB01-5BFA-4058-8722-1114D4896593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8258C1BA-F493-4F80-AD35-90017A254FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8258C1BA-F493-4F80-AD35-90017A254FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8258C1BA-F493-4F80-AD35-90017A254FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8258C1BA-F493-4F80-AD35-90017A254FBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace ChallengeHeroMonsterClassesPart1.Domain {
+﻿
+namespace ChallengeHeroMonsterClassesPart1 {
     public class Character {
         private string name;
         private int health;

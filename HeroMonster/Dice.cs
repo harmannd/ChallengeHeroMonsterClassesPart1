@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
-namespace ChallengeHeroMonsterClassesPart1.Domain {
+namespace ChallengeHeroMonsterClassesPart1 {
     public class Dice {
         private int sides;
         private Random random = new Random();
