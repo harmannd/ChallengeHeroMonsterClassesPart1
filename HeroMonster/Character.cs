@@ -1,6 +1,6 @@
 ﻿
 namespace ChallengeHeroMonsterClassesPart1 {
-    public class Character {
+    class Character {
         private string name;
         private int health;
         private int damageMaximum;

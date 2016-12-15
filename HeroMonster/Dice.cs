@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace ChallengeHeroMonsterClassesPart1 {
-    public class Dice {
+    class Dice {
         private int sides;
         private Random random = new Random();
 
